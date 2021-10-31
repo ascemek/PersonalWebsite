@@ -78,7 +78,11 @@ div.tableP2{
 	text-align: center;
 	align-items: center;
 	align-content: center;
-	
+
+}
+
+div.SubmitButton{
+margin-left: 150px;
 }
 
 
@@ -90,10 +94,19 @@ table, th, td {
 	border:1px solid black;
 }
 
-#metzImage1{
+body{
+	font-family: Tahoma, sans-serif;
+}
+
+#metzImage1, #cookiePhoto{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+div.forms{
+	margin-left: 150px;
+	margin-right: 150px;
 }
 
 
